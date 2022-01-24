@@ -1,22 +1,16 @@
 .text-bold{
-    font-weight: 700;
-    
+    font-weight: 700;   
 }
 
-.img-cover{
-    width: 1440px;
-    height: 584px;
-}
 .bg-color{
     background-color: #E5E5E5;
 }
 .title{
     font-weight: 700;
     margin-bottom: 105px;
-    text-shadow: 2px 2px 5px black;
 }
 .pragraph{
     
-    text-shadow: 2px 2px 5px black;
+    color: white;
     font-weight: 100;
 }
