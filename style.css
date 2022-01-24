@@ -1,9 +1,5 @@
-/* ..........................img-side-text................  */
 
-.text-sz{
-    margin-top: 50px;
-}
-/* ..........................................  */
+/* ................img slide pragph ..........................  */
 .text-up{
     
     margin-right: 60px;
@@ -32,19 +28,53 @@
     color: black;
 }
 
-/* .................  */
+/* ........Our package position.........  */
 .custom-center{
     
-    margin-bottom: 50px;
-    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-top: 90px;
 }
 
-/* ........................  */
-input{
-    background-color:#0D6EFD ;
-}
-
-/* /................ icon.............  */
+/* /................check icon.............  */
 .far{
     color: rgb(190, 188, 188);
 }
+
+/* ............................check... icon-img .........  */
+.icon-img{
+    border: 2px solid white;
+    
+}
+
+.icon-img-position{
+             margin-left: 210px; 
+}
+
+
+/* APPLE AND ANDROID...................  */
+
+    .apple-android{
+        Width :135px;
+        Height: 40px;
+    }
+
+    .main-app-and{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .apple-androd-img{
+        border: 2px solid white;
+    }
+
+
+
+
+
+
+
+
+
+
+
