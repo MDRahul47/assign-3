@@ -1,4 +1,12 @@
 
+.brand-name{
+    align-items:center ;
+    text-align: center;
+    padding: 5PX;
+}
+
+
+
 /* ................img slide pragph ..........................  */
 .text-up{
     
@@ -40,7 +48,7 @@
     color: rgb(190, 188, 188);
 }
 
-/* APPLE AND ANDROID....img...............  */
+/* APPLE AND ANDROID...................  */
 
     .apple-android{
         Width :135px;
