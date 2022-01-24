@@ -1,16 +1,50 @@
-.text-bold{
-    font-weight: 700;   
+/* ..........................img-side-text................  */
+
+.text-sz{
+    margin-top: 50px;
+}
+/* ..........................................  */
+.text-up{
+    
+    margin-right: 60px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
 }
 
-.bg-color{
-    background-color: #E5E5E5;
+/* SLIDER IMG SIZE .........................  */
+.IMG-SIZE{
+    height: 420px;
+    width: 100%;
 }
-.title{
-    font-weight: 700;
-    margin-bottom: 105px;
+/* ...........................................  */
+.custom-button{
+    border-radius: 15px;
+    background-color: #3F87F5 ;
+    color:white ;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    padding: 9px 25px;
+    transition: all 0.3s linear;
 }
-.pragraph{
+
+.custom-button:hover{
+    color: black;
+}
+
+/* .................  */
+.custom-center{
     
-    color: white;
-    font-weight: 100;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+/* ........................  */
+input{
+    background-color:#0D6EFD ;
+}
+
+/* /................ icon.............  */
+.far{
+    color: rgb(190, 188, 188);
 }
